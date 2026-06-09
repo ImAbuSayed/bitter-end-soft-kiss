@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bitter-end-soft-kiss/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Bitter End Soft Kiss](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bitter-end-soft-kiss/) |
+| **Get License** | [Get a Licensing Quote for Bitter End Soft Kiss](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bitter-end-soft-kiss/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `23c829a4e1800032736a50d9170eff44aecf47190680e03207d8ce020c77bb47` |
 | **Timestamp** | June 09, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
